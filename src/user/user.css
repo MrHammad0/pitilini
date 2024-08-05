@@ -1,0 +1,316 @@
+.nav-pills li a:hover {
+    background-color: #fff;
+}
+
+.background{
+    background-color: rgb(230, 170, 20);
+}
+
+.btnnav{
+    background-color: rgb(230, 170, 20);
+    color: white;
+    border: none;
+}
+
+.btnnav:hover{
+    background-color: black;
+    color: white;
+    transition: 1s ease;
+}
+
+.color{
+    color: black;
+}
+
+.navbarspan {
+    font-weight: bold;
+    color: rgb(230, 170, 20);
+    cursor: pointer;
+    transition: all ease 1s;
+}
+
+.navbarspan:hover {
+    color: black ;
+}
+
+.chart {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-image: conic-gradient(
+        rgb(255, 203, 72) 0% 20%,
+        red 20% 50%,
+        rgb(61, 61, 243) 50% 100%
+    );
+}
+
+
+.v{
+    width:82%;
+    margin-left: 18%;
+}
+
+/* P */
+
+
+.color {
+    background-color: black;
+    color: white;
+}
+
+.logoimg {
+    width: 15px;
+}
+
+.link {
+    color: black;
+    text-decoration: none;
+    display: block;
+}
+
+.listBreak {
+    margin-top: 22%;
+}
+
+@media screen and (min-width:1px) and (max-width:600px) {
+    .link {
+        display: none;
+    }
+
+    .logoimg {
+        margin-left: 30%;
+        margin: 35%;
+        width: 100%;
+    }
+}
+
+@media screen and (min-width:100px) and (max-width:986px) {
+    .usersideBarContent {
+        display: flex;
+        flex-direction: column;
+    }
+}
+
+@media screen and (min-width:100px) and (max-width:470px) {
+    .v{
+        margin-left: 20% !important;
+    }
+}
+
+@media screen and (min-width:100px) and (max-width:368px) {
+    .v{
+        margin-left: 23% !important;
+    }
+}
+
+
+
+@media screen and (min-width:100px) and (max-width:5600px) {
+    .sidebardashUser{
+        margin-left: 13% !important;
+    }
+}
+
+@media screen and (min-width:100px) and (max-width:2000px) {
+    .sidebardashUser{
+        margin-left: 11.5% !important;
+    }
+}
+
+@media screen and (min-width:100px) and (max-width:1575px) {
+    .sidebardashUser{
+        margin-left: 18% !important;
+    }
+}
+@media screen and (min-width:100px) and (max-width:1290px) {
+    .sidebardashUser{
+        margin-left: 19% !important;
+    }
+}
+@media screen and (min-width:100px) and (max-width:1105px) {
+    .sidebardashUser{
+        margin-left:  19% !important;
+    }
+}
+@media screen and (min-width:100px) and (max-width:1010px) {
+    .sidebardashUser{
+        margin-left: 21% !important;
+    }
+}
+@media screen and (min-width:100px) and (max-width:922px) {
+    .sidebardashUser{
+        margin-left: 23% !important;
+    }
+}
+@media screen and (min-width:100px) and (max-width:849px) {
+    .sidebardashUser{
+        margin-left: 27% !important;
+    }
+}
+@media screen and (min-width:100px) and (max-width:715px) {
+    .sidebardashUser{
+        margin-left: 29% !important;
+    }
+}
+@media screen and (min-width:100px) and (max-width:596px) {
+    .sidebardashUser{
+        margin-left: 34% !important;
+    }
+}
+@media screen and (min-width:100px) and (max-width:559px) {
+    .sidebardashUser{
+        margin-left: 38% !important;
+    }
+}
+@media screen and (min-width:100px) and (max-width:518px) {
+    .sidebardashUser{
+        margin-left: 44% !important;
+    }
+}
+@media screen and (min-width:100px) and (max-width:457px) {
+    .sidebardashUser{
+        margin-left: 46% !important;
+    }
+}
+@media screen and (min-width:100px) and (max-width:409px) {
+    .sidebardashUser{
+        margin-left: 49% !important;
+    }
+}
+@media screen and (min-width:100px) and (max-width:392px) {
+    .sidebardashUser{
+        margin-left: 52% !important;
+    }
+}
+@media screen and (min-width:100px) and (max-width:372px) {
+    .sidebardashUser{
+        margin-left: 54% !important;
+    }
+}
+@media screen and (min-width:100px) and (max-width:355px) {
+    .sidebardashUser{
+        margin-left: 57% !important;
+    }
+}
+@media screen and (min-width:100px) and (max-width:355px) {
+    .sidebardashUser{
+        margin-left: 57% !important;
+    }
+}
+@media screen and (min-width:100px) and (max-width:319px) {
+    .sidebardashUser{
+        margin-left: 60% !important;
+    }
+}
+/* 
+
+
+
+@media screen and (min-width:100px) and (max-width:853px) {
+    .sidebardashUser{
+        margin-left: 20% !important;
+    }
+}
+
+@media screen and (min-width:100px) and (max-width:768px) {
+    .sidebardashUser{
+        margin-left: 22% !important;
+    }
+}
+
+@media screen and (min-width:100px) and (max-width:698px) {
+    .sidebardashUser{
+        margin-left: 24% !important;
+    }
+}
+
+@media screen and (min-width:100px) and (max-width:640px) {
+    .sidebardashUser{
+        margin-left: 27% !important;
+    }
+}
+
+@media screen and (min-width:100px) and (max-width:560px) {
+    .sidebardashUser{
+        margin-left: 32% !important;
+    }
+}
+
+@media screen and (min-width:100px) and (max-width:490px) {
+    .sidebardashUser{
+        margin-left: 36% !important;
+    }
+}
+
+@media screen and (min-width:100px) and (max-width:427px) {
+    .sidebardashUser{
+        margin-left: 40% !important;
+    }
+}
+
+@media screen and (min-width:100px) and (max-width:387px) {
+    .sidebardashUser{
+        margin-left: 45% !important;
+    }
+}
+
+@media screen and (min-width:100px) and (max-width:350px) {
+    .sidebardashUser{
+        margin-left: 50% !important;
+    }
+}
+
+@media screen and (min-width:100px) and (max-width:309px) {
+    .sidebardashUser{
+        margin-left: 55% !important;
+    }
+} */
+
+.DFItems:hover{
+    background-color:rgb(230, 170, 20) ;
+    transition: 1.5s;
+    cursor: pointer;
+}
+
+
+@media screen and (min-width:100px) and (max-width:5600px) {
+    .sidebaraddUser{
+        margin-left: 13% !important;
+    }
+}
+
+@media screen and (min-width:100px) and (max-width:2000px) {
+    .sidebaraddUser{
+        margin-left: 11.5% !important;
+    }
+}
+
+@media screen and (min-width:100px) and (max-width:1575px) {
+    .sidebaraddUser{
+        margin-left: 10% !important;
+    }
+}
+
+@media screen and (min-width:100px) and (max-width:1200px) {
+    .sidebaraddUser{
+        margin-left: 9% !important;
+    }
+}
+
+@media screen and (min-width:100px) and (max-width:1050px) {
+    .sidebaraddUser{
+        margin-left: 7.5% !important;
+    }
+}
+
+@media screen and (min-width:100px) and (max-width:759px) {
+    .sidebaraddUser{
+        margin-left: 5% !important;
+    }
+}
+
+@media screen and (min-width:100px) and (max-width:474px) {
+    .sidebaraddUser{
+        margin-left: 1% !important;
+    }
+}

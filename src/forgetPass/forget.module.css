@@ -1,0 +1,315 @@
+.loginitem {
+    margin-top: 10%;
+}
+
+.payswiftlogoimg {
+    width: 100%;
+    height: 550px;
+    border-radius: 0 10px 10px 0;
+}
+
+.payswiftlogoimgcredential {
+    height: 509px;
+    width: 98%;
+    border-radius: 15px 0 0 15px;
+}
+
+.loginbox {
+    height: 600px !important;
+    border-radius: 0 15px 15px 0 !important;
+    margin-top: 15% !important;
+}
+
+.loginboxheading {
+    text-align: center !important;
+}
+
+.Signupboxheading{
+    text-align: center !important;
+}
+
+.credentialboxheading {
+    margin-left: 26% !important;
+}
+
+.loginAdminboxheading {
+    margin-left: 32% !important;
+}
+
+.loginboxheadingloginpage {
+    font-size: 40px !important;
+    cursor: pointer !important;
+    width: 45% !important;
+    position: relative !important;
+    left: 27% !important;
+    top: 7% !important;
+}
+
+.loginspan {
+    cursor: pointer !important;
+    position: relative !important;
+    right: 1.3% !important;
+}
+
+.Signupspan{
+    text-align: center !important;
+}
+
+.loginboxspan2 {
+    cursor: pointer !important;
+    color: #1976d2 !important;
+    position: relative !important;
+    right: 0.7% !important;
+}
+
+.emailinp {
+    margin-left: 29.5% !important;
+    width: 40% !important;
+}
+
+.signupsubmitbutton {
+    text-align: center !important;
+    margin-top: 2% !important;
+}
+
+.credentialsubmitbuttondiv {
+    text-align: center !important;
+    margin-top: 1% !important;
+}
+
+.credentialsubmitbutton {
+    width: 100% !important;
+}
+
+.passsetting {
+    position: relative !important;
+    top: 60px !important;
+    left: 218px !important;
+    width: 40% !important;
+}
+
+.submitbtn {
+    border-radius: 10px !important;
+    color: white !important;
+    cursor: pointer !important;
+    position: relative !important;
+    top: 14% !important;
+}
+
+.content {
+    font-size: 0.875rem !important;
+    font-family: 'IBM Plex Sans', sans-serif !important;
+    font-weight: 600;
+    height: 100% !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    color: white !important;
+}
+
+.nameinp {
+    width: 40% !important;
+    position: relative !important;
+    left: 29.5% !important;
+    top: 4% !important;
+    margin-top: 2% !important;
+}
+
+.cardnuminpcredentials{
+    width: 40% !important;
+    margin-left: 29.5% !important;
+}
+
+.cardnuminpcredemtial{
+    width: 40% !important;
+    margin-left: 29.5% !important;
+}
+
+.lastnameinp {
+    width: 40% !important;
+    position: relative !important;
+    left: 29.5% !important;
+    top: 5% !important;
+    margin-top: 1% !important;
+}
+
+.lastnameinpcredential{
+    width: 40% !important;
+    margin-left: 29.5% !important;
+    margin-top: 0.5% !important;
+}
+
+.cvvinpcredential{
+    width: 40% !important;
+    margin-left: 29.5% !important;
+    margin-top: 4% !important;
+}
+
+.cvvinpcredentialMerchant{
+    width: 40% !important;
+    margin-left: 29.5% !important;
+}
+
+.ibninp{
+    width: 40% !important;
+    margin-left: 29.5% !important;
+    margin-top: 1% !important;
+}
+
+.passinp {
+    position: relative !important;
+    left: 29.5% !important;
+    top: 10% !important;
+}
+
+.boxdiv {
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important;
+    margin-right: 1% !important;
+
+}
+
+.forgetpassres{
+    margin-left: 54% !important;
+}
+
+.spanhr {
+    display: grid !important;
+    grid-template-columns: auto auto !important;
+    gap: 10px !important;
+    margin-top: 4% !important;
+}
+
+.forgetpassstyle {
+    color: black !important;
+}
+
+.forgetpassres{
+    margin-left: 52% !important;
+}
+
+.forgetAdminpassstyle {
+    margin-left: 60% !important;
+    color: black !important;
+}
+
+.signupspan {
+    margin-left: 7% !important;
+    color: black !important;
+}
+
+.signupspan1 {
+    color: black !important;
+}
+
+
+.inppassgrid {
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+}
+
+.link {
+    text-decoration: none !important;
+}
+
+.passinpfeild {
+    width: 100% !important;
+}
+
+
+
+.changeitem2 {
+    display: flex !important;
+    justify-content: center !important;
+    text-align: center !important;
+}
+
+.btn {
+    background-color: black !important;
+    color: white !important;
+    width: 40% !important;
+    margin-top: 4% !important;
+    border-radius: 9px !important;
+    margin-left: 30% !important;
+}
+
+.logoutBtn{
+    margin-top: 2% !important;
+    margin-left: 77% !important;
+}
+@media screen and (min-width:100px) and (max-width:1195px) {
+    .logoutBtn{
+        margin-top: 2% !important;
+        margin-left: 70% !important;
+    }
+}
+@media screen and (min-width:100px) and (max-width:915px) {
+    .logoutBtn{
+        margin-top: 2% !important;
+        margin-left: 66% !important;
+    }
+}
+@media screen and (min-width:100px) and (max-width:407px) {
+    .logoutBtn{
+        margin-top: 2% !important;
+        margin-left: 30% !important;
+    }
+}
+@media screen and (min-width:100px) and (max-width:204px) {
+    .logoutBtn{
+        margin-top: 2% !important;
+        margin-left: 10% !important;
+    }
+}
+
+
+.link{
+    color: black !important;
+    text-decoration: underline !important;
+}
+
+.btn:hover {
+    background-color: black !important;
+    color: white !important;
+}
+
+.signuppagelinkdiv {
+    text-align: center !important;
+}
+
+
+
+
+.forgetitem2 {
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    background-color: rgb(230, 170, 20) !important;
+}
+
+.centerForgetDiv
+{
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    background-color: rgb(230, 170, 20) !important;
+    height: 550px;
+}
+
+.ForgetPasswordInput
+{
+    width: 100%;
+margin-top: 5%;
+}
+.forgetButton
+{
+height: 50px;
+border: none;
+border-radius: 25px;
+background-color: black;
+color: white;
+width: 100%;
+margin-top: 9%;
+}

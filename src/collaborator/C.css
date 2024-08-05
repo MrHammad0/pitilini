@@ -1,0 +1,142 @@
+.C {
+  background-color: rgb(230, 170, 20);
+}
+
+.v {
+  width: 82%;
+  margin-left: 18%;
+}
+
+.nav-pills li a:hover {
+  background-color: #fff;
+}
+
+@media screen and (min-width:100px) and (max-width:5600px) {
+  .sidebarland {
+    margin-left: 14% !important;
+  }
+}
+
+@media screen and (min-width:100px) and (max-width:1479px) {
+  .sidebarland {
+    margin-left: 14% !important;
+  }
+}
+
+@media screen and (min-width:100px) and (max-width:1260px) {
+  .sidebarland {
+    margin-left: 14% !important;
+  }
+}
+
+@media screen and (min-width:100px) and (max-width:1173px) {
+  .sidebarland {
+    margin-left: 14% !important;
+  }
+}
+
+@media screen and (min-width:100px) and (max-width:1000px) {
+  .sidebarland {
+    margin-left: 14% !important;
+  }
+}
+
+@media screen and (min-width:100px) and (max-width:905px) {
+  .sidebarland {
+    margin-left: 14% !important;
+  }
+}
+
+@media screen and (min-width:100px) and (max-width:817px) {
+  .sidebarland {
+    margin-left: 14% !important;
+  }
+}
+
+@media screen and (min-width:100px) and (max-width:745px) {
+  .sidebarland {
+    margin-left: 14% !important;
+  }
+}
+
+@media screen and (min-width:100px) and (max-width:670px) {
+  .sidebarland {
+    margin-left: 14% !important;
+  }
+}
+
+@media screen and (min-width:100px) and (max-width:610px) {
+  .sidebarland {
+    margin-left: 15% !important;
+  }
+}
+
+@media screen and (min-width:100px) and (max-width:547px) {
+  .sidebarland {
+    margin-left: 18% !important;
+  }
+}
+
+@media screen and (min-width:100px) and (max-width:480px) {
+  .sidebarland {
+    margin-left: 19% !important;
+  }
+}
+
+@media screen and (min-width:100px) and (max-width:424px) {
+  .sidebarland {
+    margin-left: 20% !important;
+  }
+}
+
+@media screen and (min-width:100px) and (max-width:365px) {
+  .sidebarland {
+    margin-left: 27% !important;
+  }
+}
+
+@media screen and (min-width:100px) and (max-width:470px) {
+  .v {
+    margin-left: 20% !important;
+  }
+}
+
+@media screen and (min-width:100px) and (max-width:368px) {
+  .v {
+    margin-left: 23% !important;
+  }
+}
+
+.collabcreateaccount{
+  width: 100%;
+}
+
+@media screen and (min-width:100px) and (max-width:5600px) {
+  .collabcreateaccount {
+    margin-left: 14% !important;
+  }
+}
+
+@media screen and (min-width:100px) and (max-width:1479px) {
+  .collabcreateaccount {
+    margin-left: 11% !important;
+  }
+}
+
+@media screen and (min-width:100px) and (max-width:1260px) {
+  .collabcreateaccount {
+    margin-left: 10% !important;
+  }
+}
+
+@media screen and (min-width:100px) and (max-width:791px) {
+  .collabcreateaccount {
+    margin-left: 8% !important;
+  }
+}
+
+@media screen and (min-width:100px) and (max-width:631px) {
+  .collabcreateaccount {
+    margin-left: 6% !important;
+  }
+}

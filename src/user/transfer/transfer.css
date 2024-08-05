@@ -1,0 +1,39 @@
+.transfer{
+    margin-top: 15px;
+}
+
+@media screen and (min-width:100px) and (max-width:5000px) {
+    .transfer{
+        margin-left: 13.5%;
+        width: 100%;
+    }
+}
+
+@media screen and (min-width:100px) and (max-width:1856px) {
+    .transfer{
+        margin-left: 12%;
+        width: 100%;
+    }
+}
+
+@media screen and (min-width:100px) and (max-width:1467px) {
+    .transfer{
+        margin-left: 11%;
+        width: 100%;
+    }
+}
+
+@media screen and (min-width:100px) and (max-width:1125px) {
+    .transfer{
+        margin-left: 10%;
+        width: 100%;
+    }
+}
+
+@media screen and (min-width:100px) and (max-width:877px) {
+    .transfer
+    {
+        margin-left: 8%;
+        width: 100%;
+    }
+}

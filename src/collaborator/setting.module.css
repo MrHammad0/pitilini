@@ -1,0 +1,122 @@
+.mainSet {
+    display: flex;
+    justify-content: space-around;
+}
+
+.flexinfo {
+    display: flex;
+    align-items: center;
+    margin-left: 10%;
+}
+
+.proPic {
+    border-radius: 50%;
+    margin-left: 8%;
+    margin-bottom: -8%;
+}
+
+.imagefile {
+    background-color: black;
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+    margin-left: 8%;
+    margin-top: 2%;
+    z-index: 1;
+}
+
+.profileimage {
+    cursor: pointer;
+    position: relative;
+    left: 90px;
+    z-index: 0;
+    top: 60px;
+    width: 50px;
+    cursor: pointer;
+    opacity: 0;
+}
+
+.main {
+    margin-top: -9%;
+}
+
+.TextField {
+    padding-top: 10%;
+    margin-left: 6%;
+}
+
+.innerTextField {
+    margin: 2%;
+    width: 30%;
+}
+
+.emailInput {
+    padding-top: 2%;
+    margin-left: 6%;
+}
+
+.innerEmailInput {
+    width: 60%;
+}
+
+.TextFieldZip {
+    padding-top: 3%;
+    margin-left: 6%;
+}
+
+.TextFieldState {
+    margin-top: 2%;
+    margin-left: 6%;
+}
+
+.btnChanges {
+    background-color: black !important;
+    color: white !important;
+    margin-left: 6% !important;
+    width: 56.4% !important;
+    height: 50px !important;
+    margin-top: 2% !important;
+}
+
+.btnChanges:hover {
+    background-color: black !important;
+    color: white !important;
+    margin-left: 6% !important;
+    width: 56.4% !important;
+    margin-top: 2% !important;
+
+}
+
+.accountSetting {
+    margin-left: 20%;
+}
+@media screen and (min-width:1px) and (max-width:331px) {
+    .accountSetting {
+        margin-left: 25%;
+        width: 110%;
+    }
+}
+
+.space {
+    margin-left: 8%;
+    margin-top:1.5% ;
+    text-align: center;
+}
+
+@media screen and (min-width:1px) and (max-width:898px) {
+    .flexinfo{
+        display: flex;
+        flex-direction: column;
+        margin-left: -15%;
+    }
+}
+
+.btnSubmit
+{
+    background-color: black !important;
+    color: white !important;
+    width: 150px;
+    border: none;
+    border-radius: 25px;
+   height: 50px;
+}

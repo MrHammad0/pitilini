@@ -1,0 +1,407 @@
+.nav-pills li a:hover {
+    background-color: #fff;
+}
+
+.background {
+    background-color: rgb(230, 170, 20);
+}
+
+.btnnav {
+    background-color: rgb(230, 170, 20);
+    color: white;
+    border: none;
+}
+
+.btnnav:hover {
+    background-color: black;
+    color: white;
+    transition: 1s ease;
+}
+
+.color {
+    color: black;
+}
+
+.navbarspan {
+    font-weight: bold;
+    color: rgb(230, 170, 20);
+    cursor: pointer;
+    transition: all ease 1s;
+}
+
+.navbarspan:hover {
+    color: black;
+}
+
+.v {
+    width: 82%;
+    margin-left: 18%;
+}
+
+/* P */
+
+
+.color {
+    background-color: black;
+    color: white;
+}
+
+.logoimg {
+    width: 15px;
+}
+
+.link {
+    color: black;
+    text-decoration: none;
+    display: block;
+}
+
+.listBreak {
+    margin-top: 22%;
+}
+
+@media screen and (min-width:1px) and (max-width:600px) {
+    .link {
+        display: none;
+    }
+
+    .logoimg {
+        margin-left: 30%;
+        margin: 35%;
+        width: 100%;
+    }
+}
+
+@media screen and (min-width:100px) and (max-width:986px) {
+    .usersideBarContent {
+        display: flex;
+        flex-direction: column;
+    }
+}
+
+@media screen and (min-width:100px) and (max-width:470px) {
+    .v {
+        margin-left: 20% !important;
+    }
+}
+
+@media screen and (min-width:100px) and (max-width:368px) {
+    .v {
+        margin-left: 23% !important;
+    }
+}
+
+
+
+
+@media screen and (min-width: 100px) and (max-width: 10077px) {
+    .sidebaradminDash {
+        margin-left: 14%;
+        width: 100%;
+    }
+}
+
+@media screen and (min-width: 100px) and (max-width: 1900px) {
+    .sidebaradminDash {
+        margin-left: 12%;
+        width: 100%;
+    }
+}
+
+@media screen and (min-width: 100px) and (max-width: 1463px) {
+    .sidebaradminDash {
+        margin-left: 17%;
+        width: 100%;
+    }
+}
+
+@media screen and (min-width: 100px) and (max-width: 1128px) {
+    .sidebaradminDash {
+        margin-left: 19%;
+        width: 100%;
+    }
+}
+
+@media screen and (min-width: 100px) and (max-width: 930px) {
+    .sidebaradminDash {
+        margin-left: 19%;
+        width: 100%;
+    }
+}
+
+@media screen and (min-width: 100px) and (max-width: 853px) {
+    .sidebaradminDash {
+        margin-left:19%;
+        width: 100%;
+    }
+}
+
+@media screen and (min-width: 100px) and (max-width: 603px) {
+    .sidebaradminDash {
+        margin-left:19%;
+        width: 100%;
+    }
+}
+
+@media screen and (min-width: 100px) and (max-width: 530px) {
+    .sidebaradminDash {
+        margin-left:22%;
+        width: 100%;
+    }
+}
+
+
+@media screen and (min-width: 1530px) and (max-width: 10077px) {
+    .sidebaradminTransfer {
+        margin-left: 13%;
+        width: 100%;
+    }
+}
+
+@media screen and (min-width: 100px) and (max-width: 1530px) {
+    .sidebaradminTransfer {
+        margin-left: 11%;
+        width: 100%;
+    }
+}
+
+@media screen and (min-width: 100px) and (max-width: 1000px) {
+    .sidebaradminTransfer {
+        margin-left: 9%;
+        width: 100%;
+    }
+}
+
+@media screen and (min-width: 100px) and (max-width: 755px) {
+    .sidebaradminTransfer {
+        margin-left: 7%;
+        width: 100%;
+    }
+}
+
+
+.mainFlex {
+    display: flex;
+    align-items: center;
+}
+
+.HomeReport {
+    width: 88%;
+    margin-left: 11%;
+    margin-top: -3%;
+}
+
+.cusFlex {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.clmDirFlx {
+    display: flex;
+    flex-direction: column;
+}
+
+.OnboardedBtn {
+    background-color: black;
+    color: white;
+}
+
+.OnboardedBtn:hover {
+    background-color: black;
+    color: white;
+}
+
+.p {
+    position: relative;
+    bottom: -20%;
+    color: black;
+}
+
+.OrderAddBtn {
+    background-color: black;
+    color: white;
+    width: 100px;
+}
+
+.OrderAddBtn:hover {
+    background-color: black;
+    color: white;
+    width: 100px;
+}
+
+.orderFlex {
+    margin: 2%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.mainSet {
+    display: flex;
+    justify-content: space-around;
+}
+
+.flexinfo {
+    display: flex;
+    align-items: center;
+    margin-left: 10%;
+}
+
+.proPic {
+    border-radius: 50%;
+    margin-left: 8%;
+    margin-bottom: -8%;
+}
+
+.imagefile {
+    background-color: black;
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+    margin-left: 8%;
+    margin-top: 2%;
+    z-index: 1;
+}
+
+.profileimage {
+    cursor: pointer;
+    position: relative;
+    left: 90px;
+    z-index: 0;
+    top: 60px;
+    width: 50px;
+    cursor: pointer;
+    opacity: 0;
+}
+
+.main {
+    margin-top: -9%;
+}
+
+.TextField {
+    padding-top: 10%;
+    margin-left: 6%;
+}
+
+.innerTextField {
+    margin: 2%;
+    width: 30%;
+}
+
+.emailInput {
+    padding-top: 2%;
+    margin-left: 6%;
+}
+
+.innerEmailInput {
+    width: 60%;
+}
+
+.TextFieldZip {
+    padding-top: 3%;
+    margin-left: 6%;
+}
+
+.TextFieldState {
+    margin-top: 2%;
+    margin-left: 6%;
+}
+
+.btnChanges {
+    background-color: black !important;
+    color: white !important;
+    margin-left: 6% !important;
+    width: 56.4% !important;
+    height: 50px !important;
+    margin-top: 2% !important;
+}
+
+.btnChanges:hover {
+    background-color: black !important;
+    color: white !important;
+    margin-left: 6% !important;
+    width: 56.4% !important;
+    margin-top: 2% !important;
+
+}
+
+.accountSetting {
+    margin-left: 20%;
+}
+@media screen and (min-width:1px) and (max-width:331px) {
+    .accountSetting {
+        margin-left: 25%;
+        width: 110%;
+    }
+}
+
+.space {
+    margin-left: 8%;
+    margin-top:1.5% ;
+    text-align: center;
+}
+
+@media screen and (min-width:1px) and (max-width:898px) {
+    .flexinfo{
+        display: flex;
+        flex-direction: column;
+        margin-left: -15%;
+    }
+}
+
+.btnSubmit
+{
+    background-color: black !important;
+    color: white !important;
+    width: 150px;
+    border: none;
+    border-radius: 25px;
+    height: 50px;
+}
+
+.userDetails{
+    width: 100%;
+}
+
+@media screen and (min-width: 100px) and (max-width: 75500px) {
+    .userDetails {
+        margin-left: 14%;
+    }
+}
+
+@media screen and (min-width: 100px) and (max-width: 2000px) {
+    .userDetails {
+        margin-left: 12%;
+    }
+}
+
+@media screen and (min-width: 100px) and (max-width: 1487px) {
+    .userDetails {
+        margin-left: 11%;
+    }
+}
+
+@media screen and (min-width: 100px) and (max-width: 1191px) {
+    .userDetails {
+        margin-left: 10%;
+    }
+}
+
+@media screen and (min-width: 100px) and (max-width: 940px) {
+    .userDetails {
+        margin-left: 9%;
+    }
+}
+
+@media screen and (min-width: 100px) and (max-width: 836px) {
+    .userDetails {
+        margin-left: 18%;
+    }
+}
+
+@media screen and (min-width: 100px) and (max-width: 777px) {
+    .userDetails{
+        margin-left: 20%;
+    }
+}

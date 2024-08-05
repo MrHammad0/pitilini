@@ -1,0 +1,50 @@
+.items{
+    color: white !important;
+    display: flex;
+    justify-content: center;
+}
+
+.inpftr{
+    background: transparent;
+    border: none;
+    outline: none;
+    color: #434343;
+    font-weight: 700;
+    border-bottom: 2px solid black;
+}
+
+.ftrbtn{
+    width: 100%;
+    border-radius: 15px !important;
+    background-color: black !important;
+    color: #fff !important;
+    margin-top: 10% !important;
+    margin: 10% !important;
+}
+
+.ftrbtn:hover{
+    background-color: rgb(56, 56, 56) !important;
+    color: #dbdbdb !important;
+    transition: 1s;
+}
+
+.footer{
+    background-color: rgb(230, 170, 20);
+    height: 400px;
+}
+
+@media screen and (min-width:100px) and (max-width:900px) {
+    .footer{
+        height: 100%;
+    }
+}
+
+.labelftr{
+    color: black;
+}
+
+.upload{
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+}

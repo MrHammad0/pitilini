@@ -1,0 +1,38 @@
+.icon {
+    width: 10%;
+}
+
+@media screen and (min-width: 100px) and (max-width: 877px) {
+    .wallet {
+        margin-left: 8%;
+        width: 100%;
+    }
+}
+
+@media screen and (min-width: 878px) and (max-width: 1125px) {
+    .wallet {
+        margin-left: 10%;
+        width: 100%;
+    }
+}
+
+@media screen and (min-width: 1126px) and (max-width: 1467px) {
+    .wallet {
+        margin-left: 11%;
+        width: 100%;
+    }
+}
+
+@media screen and (min-width: 1468px) and (max-width: 1856px) {
+    .wallet {
+        margin-left: 12%;
+        width: 100%;
+    }
+}
+
+@media screen and (min-width: 1857px) {
+    .wallet {
+        margin-left: 13.5%;
+        width: 100%;
+    }
+}
